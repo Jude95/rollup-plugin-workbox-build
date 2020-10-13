@@ -1,7 +1,7 @@
 {
-  "name": "rollup-plugin-workbox-build",
-  "version": "1.0.0",
-  "description": "Rollup plugin to apply workbox-build",
+  "name": "rollup-plugin-workbox-build-replace",
+  "version": "1.0.1",
+  "description": "Rollup plugin to apply workbox-build in replace mode",
   "main": "lib/index.js",
   "keywords": ["rollup", "rollup-plugin", "workbox"],
   "author": "Jude95",
