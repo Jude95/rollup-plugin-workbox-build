@@ -1,0 +1,16 @@
+{
+  "name": "rollup-plugin-workbox-build",
+  "version": "1.0.0",
+  "description": "Rollup plugin to apply workbox-build",
+  "main": "lib/index.js",
+  "keywords": ["rollup", "rollup-plugin", "workbox"],
+  "author": "Jude95",
+  "license": "MIT",
+  "devDependencies": {
+    "workbox-build": "^5.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Jude95/rollup-plugin-workbox-build.git"
+  }
+}
